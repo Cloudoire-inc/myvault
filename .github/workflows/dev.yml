@@ -26,6 +26,7 @@ jobs:
         cache: 'npm'
     - run: npm i
     - run: cp /home/ubuntu/.env .
+    - run: sudo pm2 restart start-server-dev
     
     
     
