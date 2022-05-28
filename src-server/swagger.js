@@ -34,7 +34,7 @@ module.exports = {
   openapi: '3.0.1',
   info: {
     version: '1.0.0',
-    title: 'Polkalokr Api Documentation V5',
+    title: 'Polkalokr Api Documentation V6',
     description: 'Polkalokr Api documentation for Polkalokr technical test',
     termsOfService: '',
   },
